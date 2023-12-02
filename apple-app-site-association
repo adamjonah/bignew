@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "MP56ZV3798.com.lifesignal.tutto",
+                "paths": ["/invite/*"]
+            }
+        ]
+    }
+}
